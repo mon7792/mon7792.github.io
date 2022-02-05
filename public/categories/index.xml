@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Monish Kadam</title>
-    <link>http://monishkadam.me/categories/</link>
+    <link>https://mon7792.github.io/monishkadam.me/categories/</link>
     <description>Recent content in Categories on Monish Kadam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://monishkadam.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://mon7792.github.io/monishkadam.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

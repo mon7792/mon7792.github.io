@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Monish Kadam</title>
-    <link>http://monishkadam.me/tags/</link>
+    <link>https://mon7792.github.io/monishkadam.me/tags/</link>
     <description>Recent content in Tags on Monish Kadam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://monishkadam.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://mon7792.github.io/monishkadam.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

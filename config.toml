@@ -1,4 +1,4 @@
-baseurl = "http://monishkadam.me" # Hostname (and path) to the root.
+baseurl = "https://mon7792.github.io/monishkadam.me/" # Hostname (and path) to the root.
 title = "Monish Kadam" # Site title.
 theme = "hugo-coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
